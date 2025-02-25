@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello, I'm Zach
+<a href="https://www.linkedin.com/in/zach-han-90b033342"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **OFern25/OFern25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
